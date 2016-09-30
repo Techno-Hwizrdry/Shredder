@@ -14,3 +14,5 @@ A simple app to turn your Tingbot into a lean, mean, flash drive wiping machine.
 * Download and install the latest version of [Tide](https://github.com/tingbot/tide/releases/) for OS X.
 * Download the latest version of [shredder.tingapp](https://github.com/Techno-Hwizrdry/Shredder/archive/master.zip).
 * Open `shredder.tingapp` with Tide.
+
+Original icon designed by Freepik from Flaticon.  I added the USB symbol to it.
