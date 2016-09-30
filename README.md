@@ -12,5 +12,5 @@ A simple app to turn your Tingbot into a lean, mean, flash drive wiping machine.
 ## Usage
 
 * Download and install the latest version of [Tide](https://github.com/tingbot/tide/releases/) for OS X.
-* Download the latest version of [clok.tingapp](https://github.com/Techno-Hwizrdry/clok/archive/master.zip).
-* Open `clok.tingapp` with Tide.
+* Download the latest version of [shredder.tingapp](https://github.com/Techno-Hwizrdry/Shredder/archive/master.zip).
+* Open `shredder.tingapp` with Tide.
