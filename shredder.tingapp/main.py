@@ -9,7 +9,7 @@ from tingbot import *
 
 
 BGCOLOR = 'black'
-PASSES  = 0  # Modify this value to change the amount of passes 'shred' does.
+PASSES  = 3  # Modify this value to change the amount of passes 'shred' does.  The higher the value, the longer the wipping will take.
 PAUSE   = 5  # In seconds.
 INSTR_LABEL = "(Tap the screen to begin.)"
 START_LABEL = "Shred USB Drive"
